@@ -15,3 +15,4 @@ empty - recebe como parametro a pilha e retorna se ela esta vazia ou não
 primeiro a entrar primeiro a sair
 
 
+possivel questão da prova: Uma lista que tem inicio e qtd, o inicio aponta para uma variavel com uma CHAVE e uma struct, contendo informações (nome, cpf, qtd_notas e notas), e um vetor proximo. 
