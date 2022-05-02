@@ -1,4 +1,4 @@
-//Questao 1069 di bee, que é a da mineração de dima
+//Questao 1069 do bee, que é a da mineração de dima
 
 #include <stdio.h> 
 #include <stdlib.h>
